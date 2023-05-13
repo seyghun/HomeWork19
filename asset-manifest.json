@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/HomeWork19/static/css/main.9ce4c990.css",
+    "main.js": "/HomeWork19/static/js/main.da82ceba.js",
+    "static/js/787.d6cb1aba.chunk.js": "/HomeWork19/static/js/787.d6cb1aba.chunk.js",
+    "static/media/capy2.jpg": "/HomeWork19/static/media/capy2.721d6d11f7b4431342f2.jpg",
+    "static/media/capy3.jpg": "/HomeWork19/static/media/capy3.f1276397cb9ac8633112.jpg",
+    "static/media/capy8.jpg": "/HomeWork19/static/media/capy8.fb7231fd4819666a3caa.jpg",
+    "static/media/capy7.jpg": "/HomeWork19/static/media/capy7.096418dbf0807543bed3.jpg",
+    "static/media/chubakaAndHan.jpg": "/HomeWork19/static/media/chubakaAndHan.a7c66e406ef0e3225c8e.jpg",
+    "static/media/capy6.jpg": "/HomeWork19/static/media/capy6.55ab56071b32532acb1f.jpg",
+    "static/media/capybara.jpg": "/HomeWork19/static/media/capybara.f738537672ebd63ce299.jpg",
+    "static/media/capy5.jpg": "/HomeWork19/static/media/capy5.65f8e25b362162946c4e.jpg",
+    "static/media/darth_avatar.jpg": "/HomeWork19/static/media/darth_avatar.5cfffb17f5b80296b58e.jpg",
+    "static/media/capy4.jpg": "/HomeWork19/static/media/capy4.532dd4bf9456dea2380f.jpg",
+    "static/media/ray.jpg": "/HomeWork19/static/media/ray.c230d16cd4b3eb535427.jpg",
+    "static/media/capy9.jpg": "/HomeWork19/static/media/capy9.88c6ce1286b3f0e8c998.jpg",
+    "static/media/anakin.jpg": "/HomeWork19/static/media/anakin.4a746c70d96893649b33.jpg",
+    "static/media/capy1.jpg": "/HomeWork19/static/media/capy1.cf61c32e7504674ddf8b.jpg",
+    "static/media/darth_post.jpg": "/HomeWork19/static/media/darth_post.58b5762b57bf9d8e19ed.jpg",
+    "static/media/check.png": "/HomeWork19/static/media/check.29f8a64da66e4ef7e551.png",
+    "static/media/han.jpg": "/HomeWork19/static/media/han.3447febe9b5957529af6.jpg",
+    "index.html": "/HomeWork19/index.html",
+    "main.9ce4c990.css.map": "/HomeWork19/static/css/main.9ce4c990.css.map",
+    "main.da82ceba.js.map": "/HomeWork19/static/js/main.da82ceba.js.map",
+    "787.d6cb1aba.chunk.js.map": "/HomeWork19/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce4c990.css",
+    "static/js/main.da82ceba.js"
+  ]
+}
