@@ -1,0 +1,87 @@
+.post_part {
+    margin-left: 60px;
+    color: #FFFF;
+}
+
+.post_part p {
+    padding-bottom: 10px;
+}
+
+#post_img {
+    height: 380px;
+    width: 750px;
+    border-radius: 15px;
+}
+
+.actions {
+    display: flex;
+    flex-direction: row;
+    margin: 15px 0 0 50px;
+    width: fit-content;
+}
+
+.actions img {
+    height: 25px;
+    width: 25px;
+    margin: 0;
+}
+
+.actions p {
+    margin: 0 0 0 10px;
+    padding-top: 5px;
+}
+
+#repost_ico,
+#like_ico,
+#download_ico {
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+#message_ico {
+    cursor: pointer;
+}
+
+.user_info {
+    display: flex;
+    gap: 10px;
+}
+
+.avatar {
+    height: 55px;
+    width: 55px;
+    border-radius: 51%;
+    cursor: pointer;
+}
+
+.check {
+    height: 25px;
+    width: 25px;
+    margin-top: 16px;
+    margin-left: 5px;
+}
+
+#acc_name {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0;
+    margin-top: 16px;
+    color: #FFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.profile_tag,
+#date {
+    color: gray;
+    font-weight: 800;
+    padding-top: 15px;
+}
+
+.card {
+    padding: 20px;
+    padding-right: 50px;
+    background-color: #243447;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 50px auto;
+}

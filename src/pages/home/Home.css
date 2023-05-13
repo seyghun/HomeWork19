@@ -1,0 +1,16 @@
+img {
+    width: 580px;
+    height: 580px;
+}
+
+.capy {
+    display: flex;
+    margin: 100px auto;
+    max-width: 1200px;
+    gap: 100px;
+}
+
+.capy p {
+    font-size: 22px;
+    line-height: 40px;
+}
